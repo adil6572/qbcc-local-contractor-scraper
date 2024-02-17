@@ -50,7 +50,7 @@ To install the QBCC Local Contractor Scraper, follow these steps:
 To utilize the QBCC Local Contractor Scraper, follow these steps:
 
 ```bash
-python main.py --category 'Builders' --filename 'builders.csv'
+python scraper.py --category 'Builders' --filename 'builders.csv'
 ```
 
 Note: You can replace `'Builders'` with any other category from the available options.
